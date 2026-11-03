@@ -2,4 +2,5 @@
 # it is .env file for terraform, which contains sensitive data. Do not commit it to git
 *.tfvars 
 *.tfstate
+*.tfstate.backup
 .terraform.lock.hcl
